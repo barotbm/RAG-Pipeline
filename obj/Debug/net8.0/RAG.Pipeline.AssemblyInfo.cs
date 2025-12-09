@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RAG.Pipeline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+408251bfb5f8fbdc6c61207e6ba7b5548832da54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6831e52c829f79b188615a9e6db4d94b5129d4e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("RAG.Pipeline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RAG.Pipeline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
